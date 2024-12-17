@@ -18,9 +18,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/djbheron100?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/botdep24?label=Followers&style=social"></a>
-<a href="https://github.com/djbheron100/JEEP/bheron-md/"><img title="Stars" src="https://img.shields.io/github/stars/djbheron100/bheron-md?&style=social"></a>
-<a href="https://github.com/djbheron100/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/djbheron100/bheron-md?style=social"></a>
-<a href="https://github.com/djbheron100/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/djbheron100/bheron-md?label=Watching&style=social"></a>
+<a href="https://github.com/bmbttz/JEEP/LUKAS-MD/"><img title="Stars" src="https://img.shields.io/github/stars/bmbttz/LUKAS-MD?&style=social"></a>
+<a href="https://github.com/bmbttz/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/bmbttz/LUKAS-MD?style=social"></a>
+<a href="https://github.com/djbheron100/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bmbttz/LUKAS-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
