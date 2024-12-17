@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
-    <img alt="wasi" height="400" src="https://files.catbox.moe/sfe41b.jpg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/3kdkf6.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">LUKAS MD</h1>
   </a>
